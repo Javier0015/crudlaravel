@@ -1,0 +1,17 @@
+{
+    "name": "LoveShop",
+    "short_name": "LoveShop",
+    "theme_color": "#33A4F5",
+    "background_color": "#33A4F5",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./icono.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
